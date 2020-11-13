@@ -1,0 +1,276 @@
+[
+
+  {
+    "name": "Algeria",
+    "code": "DZ"
+  },
+  {
+    "name": "Angola",
+    "code": "AO"
+  },
+  {
+    "name": "Benin",
+    "code": "BJ"
+  },
+  {
+    "name": "Bermuda",
+    "code": "BM"
+  },
+  {
+    "name": "Bhutan",
+    "code": "BT"
+  },
+  {
+    "name": "Bolivia",
+    "code": "BO"
+  },
+  {
+    "name": "Bosnia and Herzegovina",
+    "code": "BA"
+  },
+  {
+    "name": "Botswana",
+    "code": "BW"
+  },
+  {
+    "name": "Burkina Faso",
+    "code": "BF"
+  },
+  {
+    "name": "Burundi",
+    "code": "BI"
+  },
+  {
+    "name": "Cameroon",
+    "code": "CM"
+  },
+  {
+    "name": "Cape Verde",
+    "code": "CV"
+  },
+  {
+    "name": "Cayman Islands",
+    "code": "KY"
+  },
+  {
+    "name": "Central African Republic",
+    "code": "CF"
+  },
+  {
+    "name": "Chad",
+    "code": "TD"
+  },
+  {
+    "name": "Comoros",
+    "code": "KM"
+  },
+  {
+    "name": "Congo",
+    "code": "CG"
+  },
+  {
+    "name": "Congo, The Democratic Republic of the",
+    "code": "CD"
+  },
+  {
+    "name": "Cote D Ivoire",
+    "code": "CI"
+  },
+  {
+    "name": "Egypt",
+    "code": "EG"
+  },
+
+  {
+    "name": "Equatorial Guinea",
+    "code": "GQ"
+  },
+
+  {
+    "name": "Ethiopia",
+    "code": "ET"
+  },
+  {
+    "name": "Falkland Islands (Malvinas)",
+    "code": "FK"
+  },
+  {
+    "name": "Faroe Islands",
+    "code": "FO"
+  },
+
+  {
+    "name": "French Guiana",
+    "code": "GF"
+  },
+  {
+    "name": "French Polynesia",
+    "code": "PF"
+  },
+  {
+    "name": "French Southern Territories",
+    "code": "TF"
+  },
+  {
+    "name": "Gabon",
+    "code": "GA"
+  },
+  {
+    "name": "Gambia",
+    "code": "GM"
+  },
+
+  {
+    "name": "Ghana",
+    "code": "GH"
+  },
+
+  {
+    "name": "Guinea",
+    "code": "GN"
+  },
+  {
+    "name": "Guinea-Bissau",
+    "code": "GW"
+  },
+  {
+    "name": "Guyana",
+    "code": "GY"
+  },
+
+  {
+    "name": "Jordan",
+    "code": "JO"
+  },
+
+  {
+    "name": "Kenya",
+    "code": "KE"
+  },
+
+  {
+    "name": "Lesotho",
+    "code": "LS"
+  },
+  {
+    "name": "Liberia",
+    "code": "LR"
+  },
+
+  {
+    "name": "Madagascar",
+    "code": "MG"
+  },
+  {
+    "name": "Malawi",
+    "code": "MW"
+  },
+
+  {
+    "name": "Maldives",
+    "code": "MV"
+  },
+  {
+    "name": "Mali",
+    "code": "ML"
+  },
+
+  {
+    "name": "Mauritius",
+    "code": "MU"
+  },
+
+  {
+    "name": "Mozambique",
+    "code": "MZ"
+  },
+
+  {
+    "name": "Niger",
+    "code": "NE"
+  },
+  {
+    "name": "Nigeria",
+    "code": "NG"
+  },
+
+  {
+    "name": "Papua New Guinea",
+    "code": "PG"
+  },
+
+  {
+    "name": "RWANDA",
+    "code": "RW"
+  },
+  {
+    "name": "Saint Helena",
+    "code": "SH"
+  },
+
+  {
+    "name": "Senegal",
+    "code": "SN"
+  },
+
+
+  {
+    "name": "Seychelles",
+    "code": "SC"
+  },
+  {
+    "name": "Sierra Leone",
+    "code": "SL"
+  },
+
+  {
+    "name": "Somalia",
+    "code": "SO"
+  },
+  {
+    "name": "South Africa",
+    "code": "ZA"
+  },
+
+  {
+    "name": "Sudan",
+    "code": "SD"
+  },
+
+  {
+    "name": "Swaziland",
+    "code": "SZ"
+  },
+
+  {
+    "name": "Togo",
+    "code": "TG"
+  },
+
+  {
+    "name": "Tonga",
+    "code": "TO"
+  },
+  {
+    "name": "Trinidad and Tobago",
+    "code": "TT"
+  },
+  {
+    "name": "Tunisia",
+    "code": "TN"
+  },
+
+  {
+    "name": "Uganda",
+    "code": "UG"
+  },
+
+  {
+    "name": "Zambia",
+    "code": "ZM"
+  },
+  {
+    "name": "Zimbabwe",
+    "code": "ZW"
+  }
+]
