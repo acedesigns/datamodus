@@ -1,0 +1,38 @@
+<div class="myMargin">
+
+    <div class="container h-100" *ngIf=" isData ">
+        <div class="row h-100 justify-content-center align-items-center">
+            <h3> Loading Data ... &hellip; </h3>
+        </div>
+    </div>
+
+    <div class="row"
+         *ngFor="let article of articles; let i = index">
+
+        <div *ngFor=" let art of article; let z = index " class="col-md-4">
+
+            <div class="uk-margin uk-card uk-card-default uk-card-hover uk-card-body">
+                <div class="uk-grid-small uk-flex-middle" uk-grid>
+                    <div class="uk-width-auto">
+                        <img class="uk-border-rounded" [src]=" art.urlToImage " uk-img>
+                    </div>
+                </div>
+
+                <h6 class="uk-card-title"> {{ art.title }} </h6>
+                <p class="uk-article-meta"> By <a href="#">{{ art.author }} </a> on {{ art.publishedAt | date: 'dd LLL yyyy' }}. </p>
+                <p class="uk-article-meta"> Source {{ art.source.name }}  </p>
+                <div class="">
+                    {{ art.description }}
+                </div>
+
+                <div class="uk-card-footer">
+                    <a href="{{ art.url }}" target="_blank" class="uk-button uk-button-text">Read more</a>
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</div>

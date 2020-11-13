@@ -1,0 +1,20 @@
+{
+  "name": "Anele App.",
+  "short_name": "Anele App",
+  "description": "Truly awesome.",
+  "start_url": ".",
+  "icons": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Calculator_icon.svg/512px-Calculator_icon.svg.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "author": "Anele 'ace' M",
+  "theme_color": "#d0001c",
+  "background_color": "#FFFFFF",
+  "display": "browser",
+  "related_applications": [{
+    "platform": "play"
+  }]
+}

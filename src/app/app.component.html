@@ -1,0 +1,49 @@
+
+
+<nav class="navbar navbar-expand-md navbar-dark bg-dark">
+
+    <div class="container">
+        <div class="collapse navbar-collapse" id="navbarsExampleDefault">
+            <ul class="navbar-nav mr-auto">
+
+                <li class="nav-item active">
+                    <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+                </li>
+
+            </ul>
+            <div class=" my-2 my-lg-0">
+                <div class="row">
+                    <div class="col-lg-4">
+                        <input class="form-control mr-sm-2" [(ngModel)]="searchModel.term"
+                               placeholder="Search">
+                    </div>
+
+                    <div class="col-lg-4">
+                            <div class="input-group">
+                                <input class="form-control" placeholder="yyyy-mm-dd"
+                                       [(ngModel)]="searchModel.onDate" ngbDatepicker #d="ngbDatepicker">
+                                <div class="input-group-append">
+                                    <button class="btn btn-outline-secondary calendar" (click)="d.toggle()" type="button"></button>
+                                </div>
+                            </div>
+                    </div>
+
+                    <div class="col-lg-2">
+                        <button class="btn btn-outline-success my-2 my-sm-0" (click)="doSearch(searchModel)" type="button">Search</button>
+                    </div>
+                </div>
+
+
+            </div>
+        </div>
+    </div>
+
+
+</nav>
+
+
+<div class="container">
+
+    <router-outlet></router-outlet>
+
+</div>
